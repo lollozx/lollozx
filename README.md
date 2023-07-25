@@ -1,7 +1,7 @@
 #🐱‍👤 Developer Front-end Junior.
 
-#🚀 Skills: .html .css .js
+#🚀 Skills: .html .css .js .react
 
-#🪓 Learning: .sql .node .java
+#🪓 Learning: .sql .node .java 
 
 
